@@ -5,7 +5,6 @@ import { Box } from '@mui/material';
 import imagem from '../../assets/imagens/influencer.svg'
 import imagem2 from '../../assets/imagens/influencer2.svg'
 import imagem3 from '../../assets/imagens/influencer3.svg'
-import TabPostagem from '../../components/postagens/tabpostagem/TabPostagem';
 import { Link, useNavigate } from 'react-router-dom';
 import useLocalStorage from 'react-use-localstorage';
 import ModalPostagem from '../../components/postagens/modalPostagem/ModalPostagem';
