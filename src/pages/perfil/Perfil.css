@@ -1,0 +1,45 @@
+.card-principal{
+    display: flex;
+    border-radius: 35px 0;
+    padding: 10px;
+    margin-top: 10px !important;
+   margin: 0 auto;
+    background-color: #606060;
+    max-width: 60vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container-imagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0px;
+    
+}
+
+.card-container-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-imagem{
+    max-height: 250px;
+    border-radius: 50%;
+    border: 5px solid rgb(255, 255, 255);
+    object-fit: cover;   
+}
+
+h1{
+    font-weight: bold;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}

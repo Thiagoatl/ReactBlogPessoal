@@ -1,0 +1,8 @@
+.navbar-nav .nav-link.dropdown-toggle, .navbar-nav .nav-link {
+    color: rgb(255, 255, 255); /* Substitua "red" pela cor desejada */
+  }
+  
+  .navbar-nav .nav-link.dropdown-toggle:hover,
+  .navbar-nav .nav-link.dropdown-toggle:focus, .navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus {
+    color: rgb(144, 0, 255); /* Substitua "blue" pela cor desejada para quando o link estiver em foco ou ao passar o mouse */
+  }
